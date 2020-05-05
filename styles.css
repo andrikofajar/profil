@@ -1,0 +1,35 @@
+body {
+  background-color: #ffae8f;
+  font-family:  cursive;
+}
+
+h2 {
+  color: #c02739;
+}
+
+hr {
+  border-style: none;
+  border-top-style: inset;
+  border-color: #4d4c7d;
+  border-width: 4px;
+  width: 40%;
+}
+
+/*Class Selectors*/
+.Profil {
+  background-color: #db3056;
+}
+.circular {
+  border-radius: 100%;
+}
+.Riwayat{
+  background-color: #c9485b;
+}
+.Matkul {
+  background-color: #e32249;
+}
+
+/*ID Selectors*/
+#heading{
+  color: #ff1e56;
+}
